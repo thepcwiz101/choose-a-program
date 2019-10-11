@@ -2,7 +2,7 @@
 @echo off
 cls
 color 17
-echo Choose a Program (or action) v5.2 [PR]
+echo Choose a Program (or action) v5.3 [PR]
 echo.
 echo Specify a program or action...
 set /p choice=(Notepad, Internet, Paint, Shutdown, or Restart) choose one-
@@ -49,8 +49,8 @@ exit
 :other
 cls
 echo Unable to search for less known browsers due to limitations in Command Prompt and DOS sorry.
-timeout /NOBREAK 10
-exit
+pause
+goto :internet
 
 :IE
 cls

@@ -8,4 +8,4 @@ Version numbers are not normal because i have done many revisions of the code ov
 
 All Builds: http://www.mediafire.com/folder/m1716ed2gr8sw/Choose_a_program
 
-Notice: This project is discontinued.
+Notice: This project has been reopened after being archived for awhile.

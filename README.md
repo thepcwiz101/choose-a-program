@@ -4,7 +4,7 @@ Version numbers are not normal because i have done many revisions of the code ov
 
 **Latest Public Release Build: V6.0
 
-**Latest Dev Build: Currently out of date since it's V5.0 (Please use V5.3 Public release)
+**Latest Dev Build: Currently out of date since it's V5.0 (Please use V6.0 Public release)
 
 All Builds: http://www.mediafire.com/folder/m1716ed2gr8sw/Choose_a_program
 

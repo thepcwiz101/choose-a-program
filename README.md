@@ -9,5 +9,7 @@ Version numbers are not normal because i have done many revisions of the code ov
 All Builds: http://www.mediafire.com/folder/m1716ed2gr8sw/Choose_a_program
 
 6.0 Update: 
+
 -removed internet explorer and related text
+
 -added in chromium edge option
